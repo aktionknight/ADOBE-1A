@@ -1,49 +1,244 @@
 {
-  "title": "RFP: R RFP: R quest f quest f r Pr r Proposal oposal oposal RFP: R RFP: Request f quest for Pr r Pr oposal",
+  "title": "RFP: Request for Proposal",
   "outline": [
+    {
+      "level": "H2",
+      "text": "oposal",
+      "page": 0
+    },
     {
       "level": "H1",
       "text": "Ontario’s Digital Library",
       "page": 1
     },
     {
+      "level": "H1",
+      "text": "Prosperity Strategy",
+      "page": 1
+    },
+    {
       "level": "H2",
-      "text": "A Critical Component for Implementing Ontario’s Road Map to Prosperity Strategy",
+      "text": "Summary",
       "page": 1
     },
     {
       "level": "H3",
+      "text": ".",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "2",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H2",
       "text": "Background",
       "page": 2
     },
     {
       "level": "H3",
+      "text": "3",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Equitable access for all Ontarians:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Shared decision-making and accountability:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Shared governance structure:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Shared funding:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "4",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Local points of entry:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Guidance and Advice:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Training:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Provincial Purchasing & Licensing:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Technological Support:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "What could the ODL really mean?",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "5",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 4
+    },
+    {
+      "level": "H2",
       "text": "The Business Plan to be Developed",
       "page": 5
     },
     {
       "level": "H3",
-      "text": "Milestones Approach and Specific Proposal Requirements",
+      "text": "6",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Milestones",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Approach and Specific Proposal Requirements",
       "page": 6
     },
     {
       "level": "H3",
+      "text": "7",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H2",
       "text": "Evaluation and Awarding of Contract",
       "page": 7
     },
     {
       "level": "H3",
-      "text": "Appendix A: ODL Envisioned Phases & Funding",
+      "text": "8",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Appendix A:  ODL Envisioned Phases & Funding",
       "page": 8
     },
     {
       "level": "H3",
-      "text": "Appendix B: ODL Steering Committee Terms of Reference",
+      "text": "9",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Appendix B:",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "ODL Steering Committee Terms of Reference",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "",
       "page": 10
     },
     {
       "level": "H3",
-      "text": "Appendix C: ODL’s Envisioned Electronic Resources",
+      "text": ".",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Appendix C:",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "ODL’s Envisioned Electronic Resources",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "",
       "page": 13
     }
   ]

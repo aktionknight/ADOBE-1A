@@ -1,19 +1,14 @@
 {
-  "title": "Overview Foundation Level Extensions",
+  "title": "Ultimate Guide to Activities and Things to Do in the South of France Introduction",
   "outline": [
     {
       "level": "H1",
-      "text": "Overview",
-      "page": 0
-    },
-    {
-      "level": "H1",
-      "text": "Overview",
+      "text": "",
       "page": 1
     },
     {
       "level": "H1",
-      "text": "Foundation Level Extension –",
+      "text": "",
       "page": 1
     },
     {
@@ -23,18 +18,58 @@
     },
     {
       "level": "H1",
-      "text": "Agile Tester",
+      "text": "",
       "page": 1
     },
     {
       "level": "H1",
-      "text": "Overview",
-      "page": 2
+      "text": "",
+      "page": 1
     },
     {
       "level": "H1",
-      "text": "Foundation Level Extension –",
-      "page": 2
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 1
     },
     {
       "level": "H1",
@@ -43,22 +78,117 @@
     },
     {
       "level": "H1",
-      "text": "Agile Tester",
+      "text": "",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•",
       "page": 2
     },
     {
       "level": "H1",
-      "text": "Revision History",
+      "text": "",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•",
       "page": 2
     },
     {
       "level": "H1",
-      "text": "Overview",
+      "text": "",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "•",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "",
       "page": 3
     },
     {
       "level": "H1",
-      "text": "Foundation Level Extension –",
+      "text": "•",
       "page": 3
     },
     {
@@ -68,127 +198,7 @@
     },
     {
       "level": "H1",
-      "text": "Agile Tester",
-      "page": 3
-    },
-    {
-      "level": "H1",
-      "text": "Table of Contents",
-      "page": 3
-    },
-    {
-      "level": "H1",
-      "text": "Revision History",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "3",
-      "page": 3
-    },
-    {
-      "level": "H1",
-      "text": "Table of Contents",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "4",
-      "page": 3
-    },
-    {
-      "level": "H1",
-      "text": "1.",
-      "page": 3
-    },
-    {
-      "level": "H1",
-      "text": "Introduction to the Foundation Level Extensions",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "6",
-      "page": 3
-    },
-    {
-      "level": "H1",
-      "text": "2.",
-      "page": 3
-    },
-    {
-      "level": "H1",
-      "text": "Introduction to Foundation Level Agile Tester Extension",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "2.1",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "Intended Audience",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "2.2",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "Career Paths for Testers",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "2.3",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "Learning Objectives",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "2.4",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "Entry Requirements",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "2.5",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "Structure and Course Duration",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "2.6",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "Keeping It Current",
-      "page": 3
-    },
-    {
-      "level": "H1",
-      "text": "3.",
-      "page": 3
-    },
-    {
-      "level": "H1",
-      "text": "Overview of the Foundation Level Extension –",
+      "text": "•",
       "page": 3
     },
     {
@@ -197,63 +207,83 @@
       "page": 3
     },
     {
-      "level": "H2",
-      "text": "3.1",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "Business Outcomes",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "3.2",
+      "level": "H1",
+      "text": "•",
       "page": 3
     },
     {
       "level": "H1",
-      "text": "Content",
+      "text": "",
       "page": 3
     },
     {
       "level": "H1",
-      "text": "4.",
+      "text": "•",
       "page": 3
     },
     {
       "level": "H1",
-      "text": "References",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "4.1",
+      "text": "",
       "page": 3
     },
     {
       "level": "H1",
-      "text": "Trademarks",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "4.2",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "Documents and Web Sites",
+      "text": "•",
       "page": 3
     },
     {
       "level": "H1",
-      "text": "Overview",
-      "page": 4
+      "text": "",
+      "page": 3
     },
     {
       "level": "H1",
-      "text": "Foundation Level Extension –",
+      "text": "•",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "",
       "page": 4
     },
     {
@@ -263,12 +293,7 @@
     },
     {
       "level": "H1",
-      "text": "Agile Tester",
-      "page": 4
-    },
-    {
-      "level": "H1",
-      "text": "Acknowledgements",
+      "text": "•",
       "page": 4
     },
     {
@@ -284,6 +309,21 @@
     {
       "level": "H1",
       "text": "",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "•",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "•",
       "page": 4
     },
     {
@@ -318,32 +358,17 @@
     },
     {
       "level": "H1",
-      "text": "Overview",
-      "page": 5
-    },
-    {
-      "level": "H1",
-      "text": "Foundation Level Extension –",
-      "page": 5
+      "text": "",
+      "page": 4
     },
     {
       "level": "H1",
       "text": "",
-      "page": 5
+      "page": 4
     },
     {
       "level": "H1",
-      "text": "Agile Tester",
-      "page": 5
-    },
-    {
-      "level": "H1",
-      "text": "1.",
-      "page": 5
-    },
-    {
-      "level": "H1",
-      "text": "Introduction to the Foundation Level Extensions",
+      "text": "",
       "page": 5
     },
     {
@@ -353,43 +378,28 @@
     },
     {
       "level": "H1",
-      "text": "Overview",
-      "page": 6
-    },
-    {
-      "level": "H1",
-      "text": "Foundation Level Extension –",
-      "page": 6
+      "text": "",
+      "page": 5
     },
     {
       "level": "H1",
       "text": "",
-      "page": 6
-    },
-    {
-      "level": "H1",
-      "text": "Agile Tester",
-      "page": 6
-    },
-    {
-      "level": "H1",
-      "text": "2.",
-      "page": 6
-    },
-    {
-      "level": "H1",
-      "text": "Introduction to Foundation Level Agile Tester Extension",
-      "page": 6
+      "page": 5
     },
     {
       "level": "H1",
       "text": "",
-      "page": 6
+      "page": 5
     },
     {
-      "level": "H2",
-      "text": "2.1 Intended Audience",
-      "page": 6
+      "level": "H1",
+      "text": "",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 5
     },
     {
       "level": "H1",
@@ -403,7 +413,7 @@
     },
     {
       "level": "H1",
-      "text": "the",
+      "text": "",
       "page": 6
     },
     {
@@ -422,8 +432,13 @@
       "page": 6
     },
     {
-      "level": "H2",
-      "text": "2.2 Career Paths for Testers",
+      "level": "H1",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "",
       "page": 6
     },
     {
@@ -432,18 +447,33 @@
       "page": 6
     },
     {
-      "level": "H2",
-      "text": "2.3 Learning Objectives",
+      "level": "H1",
+      "text": "",
       "page": 6
     },
     {
       "level": "H1",
-      "text": "Overview",
-      "page": 7
+      "text": "",
+      "page": 6
     },
     {
       "level": "H1",
-      "text": "Foundation Level Extension –",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "",
       "page": 7
     },
     {
@@ -453,22 +483,7 @@
     },
     {
       "level": "H1",
-      "text": "Agile Tester",
-      "page": 7
-    },
-    {
-      "level": "H2",
-      "text": "2.4 Entry Requirements",
-      "page": 7
-    },
-    {
-      "level": "H1",
       "text": "",
-      "page": 7
-    },
-    {
-      "level": "H2",
-      "text": "2.5 Structure and Course Duration",
       "page": 7
     },
     {
@@ -478,28 +493,53 @@
     },
     {
       "level": "H1",
-      "text": "Syllabus",
+      "text": "",
       "page": 7
     },
     {
       "level": "H1",
-      "text": "3",
+      "text": "",
       "page": 7
     },
     {
       "level": "H1",
-      "text": "2",
+      "text": "",
       "page": 7
     },
     {
       "level": "H1",
-      "text": "Overview",
-      "page": 8
+      "text": "",
+      "page": 7
     },
     {
       "level": "H1",
-      "text": "Foundation Level Extension –",
-      "page": 8
+      "text": "",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 7
     },
     {
       "level": "H1",
@@ -508,87 +548,77 @@
     },
     {
       "level": "H1",
-      "text": "Agile Tester",
-      "page": 8
-    },
-    {
-      "level": "H2",
-      "text": "2.6 Keeping It Current",
+      "text": "",
       "page": 8
     },
     {
       "level": "H1",
-      "text": "Overview",
-      "page": 9
-    },
-    {
-      "level": "H1",
-      "text": "Foundation Level Extension –",
-      "page": 9
+      "text": "",
+      "page": 8
     },
     {
       "level": "H1",
       "text": "",
-      "page": 9
-    },
-    {
-      "level": "H1",
-      "text": "Agile Tester",
-      "page": 9
-    },
-    {
-      "level": "H1",
-      "text": "3.",
-      "page": 9
-    },
-    {
-      "level": "H1",
-      "text": "Overview of the Foundation Level Extension –",
-      "page": 9
+      "page": 8
     },
     {
       "level": "H1",
       "text": "",
-      "page": 9
-    },
-    {
-      "level": "H1",
-      "text": "Agile Tester",
-      "page": 9
-    },
-    {
-      "level": "H1",
-      "text": "Syllabus",
-      "page": 9
-    },
-    {
-      "level": "H2",
-      "text": "3.1 Business Outcomes",
-      "page": 9
-    },
-    {
-      "level": "H1",
-      "text": "Extension –",
-      "page": 9
+      "page": 8
     },
     {
       "level": "H1",
       "text": "",
-      "page": 9
+      "page": 8
     },
     {
       "level": "H1",
       "text": "",
-      "page": 9
+      "page": 8
     },
     {
       "level": "H1",
       "text": "",
-      "page": 9
+      "page": 8
     },
     {
-      "level": "H2",
-      "text": "3.2 Content",
+      "level": "H1",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "•",
       "page": 9
     },
     {
@@ -624,31 +654,6 @@
     {
       "level": "H1",
       "text": "",
-      "page": 9
-    },
-    {
-      "level": "H1",
-      "text": "Overview",
-      "page": 10
-    },
-    {
-      "level": "H1",
-      "text": "Foundation Level Extension –",
-      "page": 10
-    },
-    {
-      "level": "H1",
-      "text": "",
-      "page": 10
-    },
-    {
-      "level": "H1",
-      "text": "Agile Tester",
-      "page": 10
-    },
-    {
-      "level": "H1",
-      "text": "",
       "page": 10
     },
     {
@@ -715,46 +720,6 @@
       "level": "H1",
       "text": "",
       "page": 10
-    },
-    {
-      "level": "H1",
-      "text": "",
-      "page": 10
-    },
-    {
-      "level": "H1",
-      "text": "",
-      "page": 10
-    },
-    {
-      "level": "H1",
-      "text": "",
-      "page": 10
-    },
-    {
-      "level": "H1",
-      "text": "",
-      "page": 10
-    },
-    {
-      "level": "H1",
-      "text": "",
-      "page": 10
-    },
-    {
-      "level": "H1",
-      "text": "",
-      "page": 10
-    },
-    {
-      "level": "H1",
-      "text": "Overview",
-      "page": 11
-    },
-    {
-      "level": "H1",
-      "text": "Foundation Level Extension –",
-      "page": 11
     },
     {
       "level": "H1",
@@ -763,32 +728,7 @@
     },
     {
       "level": "H1",
-      "text": "Agile Tester",
-      "page": 11
-    },
-    {
-      "level": "H1",
-      "text": "4.",
-      "page": 11
-    },
-    {
-      "level": "H1",
-      "text": "References",
-      "page": 11
-    },
-    {
-      "level": "H2",
-      "text": "4.1 Trademarks",
-      "page": 11
-    },
-    {
-      "level": "H2",
-      "text": "4.2 Documents and Web Sites",
-      "page": 11
-    },
-    {
-      "level": "H1",
-      "text": "Reference",
+      "text": "",
       "page": 11
     }
   ]
