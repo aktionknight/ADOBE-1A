@@ -1,3 +1,5 @@
+IN CASE DOCKER DOESNT WORK, run Predict_all.py . input directory for files input, output directory for output of extracted texts.
+
 # PDF Heading and Title Extraction
 
 ## Approach
